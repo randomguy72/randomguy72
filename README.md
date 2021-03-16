@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randomguy72
 - 👀 I’m interested in Java and MATLAB
 - 🌱 I’m currently learning Java and MATLAB
-- 💞️ I’m looking to collaborate on Teacher tools*in development with challe-git*
+- 💞️ I’m looking to collaborate on Teacher tools in development with challe-git*
 
 
 <!---
